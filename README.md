@@ -20,4 +20,6 @@ This application allows the user to log in using a Google account, access privat
 
 `yarn add react-router react-router-dom firebase react-firebase-hooks`
 
+### Deploy on vercel
 
+[Authorization](https://authorization-inky.vercel.app/)
